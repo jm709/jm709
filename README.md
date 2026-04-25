@@ -1,7 +1,7 @@
 Hi 👋 My name is John MacPhie
 =============================
 
-* 🖥️  See my portfolio at [john-macphie.vercel.app](http://https://john-macphie.vercel.app/)
+* 🖥️  See my portfolio at [john-macphie.vercel.app](https://john-macphie.vercel.app/)
 * ✉️  You can contact me at [johnnmacphie@gmail.com](mailto:johnnmacphie@gmail.com)
 
 <p align="left">
