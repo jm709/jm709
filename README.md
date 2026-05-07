@@ -21,9 +21,9 @@ Owner of Claude Max. Turbo Comitter. Hungry and passionate. Mind = Sponge (empty
 
 ### Game
 
-<a href="https://steamcommunity.com/profiles/Jronna">
+<a href="https://steamcommunity.com/id/Jronna">
   <img src="https://steam-readme-five.vercel.app/api/steam?type=recent" alt="Recently played" />
 </a>
-<a href="https://steamcommunity.com/profiles/Jronna">
+<a href="https://steamcommunity.com/id/Jronna">
   <img src="https://steam-readme-five.vercel.app/api/steam?type=playtime" alt="Most played" />
 </a>
